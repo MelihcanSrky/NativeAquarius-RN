@@ -9,6 +9,7 @@ export default function App() {
       <McButtonV2 shape = "c-sm" theme = "light" >Increase</McButtonV2>
       <McButtonV2 shape = "c-md" theme = "light" >Increase</McButtonV2>
       <McButtonV2 shape = "c-bg" theme = "light" >Increase</McButtonV2>
+      <McButtonV2 shape = "s-bg" theme = "light" >Increase</McButtonV2>
       <StatusBar style="auto" />
     </View>
   );
