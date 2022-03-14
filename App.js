@@ -7,6 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
       <McButtonV2 shape = "c-sm" theme = "light" >Increase</McButtonV2>
+      <McButtonV2 shape = "c-md" theme = "light" >Increase</McButtonV2>
       <StatusBar style="auto" />
     </View>
   );
